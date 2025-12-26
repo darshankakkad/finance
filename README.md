@@ -1,4 +1,5 @@
-# Welcome to my repository on financial data visualisation and analysis
+# Financial data visualisation and analysis
 
+This is a random collection of my codes on financial data analysis. 
 
-stock_movements_piechart.ipynb: Shows a time series plot of a stock and a pie chart depicting the stock price movements
+-- stock_movements_piechart.ipynb: Shows a time series plot of a stock and a pie chart depicting the stock price movements
